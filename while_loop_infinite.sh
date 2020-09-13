@@ -1,6 +1,6 @@
 #!/bin/sh
 
-count = 0
+count=0
 
 while true;
 do
