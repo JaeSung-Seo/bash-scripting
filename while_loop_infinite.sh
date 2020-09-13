@@ -1,5 +1,5 @@
 #!/bin/bash
-
+# curl https://raw.githubusercontent.com/JaeSung-Seo/bash-scripting/master/while_loop_infinite.sh | bash -s -- www.google.com 2
 count=0
 
 while true;
