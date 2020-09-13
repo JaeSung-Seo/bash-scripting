@@ -1,7 +1,7 @@
 #!/bin/bash
 
 count=0
-
+#start
 while true;
 do
   curl -o /dev/null $1
