@@ -2,7 +2,6 @@
 
 while true;
 do
-  curl -o /dev/null "$1"
-  echo " Target url: $1"
+  curl -o /dev/null www.google.com
   sleep 2
 done
